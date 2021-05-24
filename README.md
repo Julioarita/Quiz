@@ -17,7 +17,7 @@ You can find a direct link to each problem if preferred.
 
 ## Some remarks you can consider relevant about the answers for each problem in particular.
 
-The Quiz was provided with nine questions, the very first of them was my name, so it actually has eight questions to answer. I respect the questions number and leave it on directories and files. So, you'll not find 'first problem', because it is starting with second one. 
+The Quiz was provided with nine questions, the very first of them was my name, so, it actually has eight questions to answer. I considered the same questions number and I left them on the directories and files. So, you'll not find 'first problem', because it is starting with second one. 
 
 ## Second Problem:
 
@@ -30,11 +30,12 @@ to zero, then the number is a multiple.
 ## Third Problem:
 
 Considering our function purpose, performing the conversion is not required 
-once confirmed that is possible to perform it. Due to the fact that our return 
+once confirmed that is possible to do it. Due to the fact that our return 
 is a string and not the conversion properly.
 
 The portuguese alphabet contain 26 characters, all of them included in 
-ASCII table (1 byte). Starting from the decimal value 97 until to 122.
+ASCII table (1 byte). Starting from the decimal value 97 until to 122. I am not considering
+spaces in the strings since the given strings consider only alphabetic characters.
 
 There is a piece of code that is not require, as I mentioned above, due to the
 purpose of our function once the conditions length(s) + length(t) <= k and 
@@ -45,7 +46,7 @@ length(s) >= length(t) are true always will be possible to perform conversion.
 
 ## Fourth Problem:
 
-This one was the most tricky for me. I wasn't familiar with Unit Test. So far, I have been trying to code a minimal Unit Test and I haven't achieved, I would need more time to do it. So, as my time is over I decided to leave it blank. 
+This one was the most tricky for me. I wasn't familiar with Unit Test. So far, I have been trying to code a minimal Unit Test and I haven't achieved it properly, just a few poor results. I would need more time to do it. So, as my time is over I decided to leave it blank. 
 
 
 
@@ -65,7 +66,7 @@ Anyway, probably it was my misunderstood but I wanted to remark it.
 
 ## Sixth Problem: 
 
-Although this example does not require a especific code file. I decided to backup my idea with an little example to better explain what I consider in the sixth problem where, I think, we have a example of polymorphism.
+Although this example does not require a especific code file. I decided to backup my idea with an little example to better explain what I consider, I think, it is a case of polymorphism.
 
 In my point of view we could consider as an example of method overloading and superimpose 
 as well, but the use of the pointer to the base class is a clear example of polymorphism.
@@ -83,6 +84,12 @@ In this particular problem I wasn't given with any constraints so I decided to u
 which pull out all distinct values from both tables.
 
 [Seventh](https://github.com/Julioarita/Quiz/tree/main/Answers/Seventh%20Problem)
+
+# Eighth Problem:
+
+In this problem I used a .txt file to represent what I consider it would be the proper commands to perform every action.
+
+[Eighth](https://github.com/Julioarita/Quiz/tree/main/Answers/Eighth%20Problem)
 
 # #Ninth Problem:
 
