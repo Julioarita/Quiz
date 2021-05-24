@@ -11,7 +11,7 @@ You can find a direct link to each problem if preferred.
 
 [Quiz Repository](https://github.com/Julioarita/Quiz)
 
-### Some remarks you can consider relevant about the answers for each problem in particular.
+## Some remarks you can consider relevant about the answers for each problem in particular.
 
 The Quiz was provided with nine questions, the very first of them was my name, so it actually has eight questions to answer. I respect the questions number and leave it on directories and files. So, you'll not find 'first problem', because it is starting with second one. 
 
@@ -68,6 +68,7 @@ I used SQlite as interpreter of commands, but probably due to it is a simple que
 
 In this particular problem I wasn't given with any constraints so I decided to use `UNION`
 which pull out all distinct values from both tables.
+
 [Seventh](https://github.com/Julioarita/Quiz/tree/main/Answers/Seventh%20Problem)
 
 # #Ninth Problem:
