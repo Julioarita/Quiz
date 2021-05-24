@@ -2,7 +2,8 @@
 
 Julio Arita 21/05/2021
 
-I used a simple 'for' loop
+I used a simple 'for' loop. I just look at the remainder, if it is equal
+to zero, then the number is a multiple.
 
 **************************************************************************/
 #include <iostream>
