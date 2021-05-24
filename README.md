@@ -36,7 +36,7 @@ There is a piece of code that is not require, as I mentioned above, due to the
 purpose of our function once the conditions length(s) + length(t) <= k and 
 length(s) >= length(t) are true always will be possible to perform conversion.
 
-[](https://github.com/Julioarita/Quiz/tree/main/Answers/Third%20Problem)
+[Third](https://github.com/Julioarita/Quiz/tree/main/Answers/Third%20Problem)
 
 
 ## Fourth Problem:
