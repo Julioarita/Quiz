@@ -4,6 +4,8 @@ Here you can find all the answers to the little Quiz supplied. Regardless anythi
 
 Although it is a simple repository with a few files, I consider relevant to create a directory to each one specifically. So, in the Answer directory you can find a folder for each answer. Just to make it clearer. 
 
+Sorry for very late delivery. Anyway, thank you.
+
 You can find a direct link to each problem if preferred.
 
 **The repository URL is the following:**
@@ -41,7 +43,7 @@ length(s) >= length(t) are true always will be possible to perform conversion.
 
 ## Fourth Problem:
 
-This one was the most tricky for me. I wasn't familiar with Unit Test. 
+This one was the most tricky for me. I wasn't familiar with Unit Test. So far, I have been trying to code a minimal Unit Test and I haven't achieved, I would need more time to do it. So, as my time is over I decided to leave it blank. 
 
 
 
