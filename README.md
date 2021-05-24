@@ -4,6 +4,8 @@ Here you can find all the answers to the little Quiz supplied. Regardless anythi
 
 Although it is a simple repository with a few files, I consider relevant to create a directory to each one specifically. So, in the Answer directory you can find a folder for each answer. Just to make it clearer. 
 
+Probably you expect test and validation for every problem, but I wasn't familiar with this approach of testing code. So, I discovered it with this quiz. I couldn't perform them.
+
 Sorry for very late delivery. Anyway, thank you.
 
 You can find a direct link to each problem if preferred.
