@@ -16,34 +16,28 @@ purpose of our function once the conditions length(s) + length(t) <= k and
 length(s) >= length(t) are true always will be possible to perform conversion.
 
 **************************************************************************/
+
 #include <iostream>
 using namespace std;
+
 // Global variables declarations
-char user_word[100], user_word1[100];
-int k; 
 char yes[] = "Yes";
 char no[] = "No";
 
 
-//Function prototype declarations
+//Function prototype declarations. Our function return a string (char *)
 char* ConcatRemove(char*, char*, int);
 
-int main() {
-   char* expression;
-   cout << "Type a string s" << endl;
-   cin >> user_word;
+// Test case to check. It's imcomplete
+/*
+BEGIN_TEST(){
+  EXPECT_EQ(ConcatRemove())
+}END_TEST
 
-   cout << "Type a string t" << endl;
-   cin >> user_word1;
-
-   cout << "Type a integer: " << endl;
-   cin >> k;
-
-   expression = ConcatRemove(user_word, user_word1, k);
-   cout << "Finally we have that--> " << expression;
-
-   return 0;
-}
+int main(){
+  RUN_TEST()
+  return 0;
+}*/
 
 char* ConcatRemove(char* s, char *t, int k){
 

@@ -5,12 +5,13 @@ Julio Arita 22/05/2021
 Some remarks:
 
 I made this brief piece of code to better explain what I consider in the sixth problem 
-that we have a example of polymorphism.
+where we have a example of polymorphism.
 
-In my point of view we could consider as an example of method overloading and superimpose as well, but the 
-use of the pointer to the base class is a clear example of polymorphism. It seems like we
-are having just method overloading but we are using a pointer and references. So, to access each
-particular method in each subclass, we have to use a 'virtual funtion' in the base class declaration
+In my point of view we could consider as an example of method overloading and superimpose 
+as well, but the use of the pointer to the base class is a clear example of polymorphism.
+It seems like we are having just method overloading but we are using a pointer and references. 
+So, to access each particular method in each subclass, we have to use a 'virtual funtion' 
+in the base class declaration.
 
 
 ***************************************************************************************/
