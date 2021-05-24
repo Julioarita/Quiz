@@ -17,7 +17,7 @@ The Quiz was provided with nine questions, the very first of them was my name, s
 
 ## Second Problem:
 
-I used a simple 'for' loop. I just look at the remainder, if it is equal
+I used a simple 'for' loop. I just look at the quotient, if it is equal
 to zero, then the number is a multiple.
 
 [Second](https://github.com/Julioarita/Quiz/tree/main/Answers/Second%20Problem)
